@@ -8,8 +8,12 @@ You should clone this repo to your desktop and then add a text file (or use Mark
 
 ### What to include
 You could include some of the following:
-- Your name
-- Your favourite hobby
-- Your favourite aspect of IT
-- Why you took VocSkills
-- Anything else you want to share
+- Your Name: 	James Woods (Woody).
+
+- Your favourite hobby: Family time then djing.
+
+- Your favourite aspect of IT:  Problem solving.
+
+- Why you took VocSkills: To help reinforce my condifence while learning new skills.
+
+- Anything else you want to share:  Im an easy down to earth guy that is willing to help out whereever I can.
